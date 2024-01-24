@@ -11,4 +11,4 @@ After that, run the following command to start the game:
 python main.py
 ```
 
-![Game Screenshot](./sprites/game.png)
+![Game Screenshot](https://github.com/janneheldan/mine-sweeper/blob/main/sprites/game.PNG)
